@@ -1,0 +1,1294 @@
+{
+  "links": [
+    {
+      "id": "2023917",
+      "name": "销售产品",
+      "source": "38",
+      "target": "86"
+    },
+    {
+      "id": "9933317",
+      "name": "销售产品",
+      "source": "38",
+      "target": "104"
+    },
+    {
+      "id": "7072850",
+      "name": "销售产品",
+      "source": "38",
+      "target": "131"
+    },
+    {
+      "id": "5717170",
+      "name": "销售产品",
+      "source": "38",
+      "target": "151"
+    },
+    {
+      "id": "5740343",
+      "name": "销售产品",
+      "source": "38",
+      "target": "167"
+    },
+    {
+      "id": "2226816",
+      "name": "销售产品",
+      "source": "38",
+      "target": "177"
+    },
+    {
+      "id": "3768311",
+      "name": "销售产品",
+      "source": "38",
+      "target": "203"
+    },
+    {
+      "id": "2434924",
+      "name": "销售产品",
+      "source": "38",
+      "target": "200"
+    },
+    {
+      "id": "4107400",
+      "name": "销售产品",
+      "source": "38",
+      "target": "216"
+    },
+    {
+      "id": "7170962",
+      "name": "销售产品",
+      "source": "38",
+      "target": "212"
+    },
+    {
+      "id": "2428334",
+      "name": "销售产品",
+      "source": "38",
+      "target": "225"
+    },
+    {
+      "id": "1425992",
+      "name": "销售产品",
+      "source": "38",
+      "target": "226"
+    },
+    {
+      "id": "3284023",
+      "name": "销售产品",
+      "source": "38",
+      "target": "230"
+    },
+    {
+      "id": "2306497",
+      "name": "销售产品",
+      "source": "38",
+      "target": "248"
+    },
+    {
+      "id": "5745402",
+      "name": "销售产品",
+      "source": "38",
+      "target": "242"
+    },
+    {
+      "id": "5555837",
+      "name": "销售产品",
+      "source": "38",
+      "target": "240"
+    },
+    {
+      "id": "5038457",
+      "name": "销售产品",
+      "source": "38",
+      "target": "272"
+    },
+    {
+      "id": "5141869",
+      "name": "销售保险类型",
+      "source": "38",
+      "target": "596"
+    },
+    {
+      "id": "5208547",
+      "name": "销售产品",
+      "source": "65",
+      "target": "92"
+    },
+    {
+      "id": "4088515",
+      "name": "销售产品",
+      "source": "65",
+      "target": "96"
+    },
+    {
+      "id": "8129822",
+      "name": "销售产品",
+      "source": "65",
+      "target": "114"
+    },
+    {
+      "id": "6194905",
+      "name": "销售产品",
+      "source": "65",
+      "target": "152"
+    },
+    {
+      "id": "6473995",
+      "name": "销售产品",
+      "source": "65",
+      "target": "166"
+    },
+    {
+      "id": "6962580",
+      "name": "销售产品",
+      "source": "65",
+      "target": "161"
+    },
+    {
+      "id": "3950948",
+      "name": "销售产品",
+      "source": "65",
+      "target": "181"
+    },
+    {
+      "id": "8696232",
+      "name": "销售产品",
+      "source": "65",
+      "target": "198"
+    },
+    {
+      "id": "8727961",
+      "name": "销售产品",
+      "source": "65",
+      "target": "201"
+    },
+    {
+      "id": "6301942",
+      "name": "销售产品",
+      "source": "65",
+      "target": "231"
+    },
+    {
+      "id": "4864787",
+      "name": "销售产品",
+      "source": "65",
+      "target": "253"
+    },
+    {
+      "id": "5590959",
+      "name": "销售产品",
+      "source": "65",
+      "target": "266"
+    },
+    {
+      "id": "7935494",
+      "name": "销售产品",
+      "source": "65",
+      "target": "276"
+    },
+    {
+      "id": "7966468",
+      "name": "销售产品",
+      "source": "65",
+      "target": "273"
+    },
+    {
+      "id": "4239379",
+      "name": "销售产品",
+      "source": "65",
+      "target": "301"
+    },
+    {
+      "id": "1209796",
+      "name": "销售产品",
+      "source": "65",
+      "target": "289"
+    },
+    {
+      "id": "7013396",
+      "name": "销售产品",
+      "source": "65",
+      "target": "309"
+    },
+    {
+      "id": "8532441",
+      "name": "销售产品",
+      "source": "65",
+      "target": "305"
+    },
+    {
+      "id": "1391619",
+      "name": "销售保险类型",
+      "source": "65",
+      "target": "597"
+    },
+    {
+      "id": "4759304",
+      "name": "销售产品",
+      "source": "62",
+      "target": "98"
+    },
+    {
+      "id": "2040126",
+      "name": "销售产品",
+      "source": "62",
+      "target": "101"
+    },
+    {
+      "id": "1874664",
+      "name": "销售产品",
+      "source": "62",
+      "target": "108"
+    },
+    {
+      "id": "3526376",
+      "name": "销售产品",
+      "source": "62",
+      "target": "115"
+    },
+    {
+      "id": "1339366",
+      "name": "销售产品",
+      "source": "62",
+      "target": "119"
+    },
+    {
+      "id": "3890794",
+      "name": "销售产品",
+      "source": "62",
+      "target": "127"
+    },
+    {
+      "id": "5050653",
+      "name": "销售产品",
+      "source": "62",
+      "target": "144"
+    },
+    {
+      "id": "3436678",
+      "name": "销售产品",
+      "source": "62",
+      "target": "174"
+    },
+    {
+      "id": "5047646",
+      "name": "销售产品",
+      "source": "62",
+      "target": "191"
+    },
+    {
+      "id": "9311778",
+      "name": "销售产品",
+      "source": "62",
+      "target": "199"
+    },
+    {
+      "id": "5691085",
+      "name": "销售产品",
+      "source": "62",
+      "target": "197"
+    },
+    {
+      "id": "9956986",
+      "name": "销售产品",
+      "source": "62",
+      "target": "194"
+    },
+    {
+      "id": "3474872",
+      "name": "销售产品",
+      "source": "62",
+      "target": "221"
+    },
+    {
+      "id": "2856201",
+      "name": "销售产品",
+      "source": "62",
+      "target": "220"
+    },
+    {
+      "id": "3815242",
+      "name": "销售产品",
+      "source": "62",
+      "target": "215"
+    },
+    {
+      "id": "9303391",
+      "name": "销售产品",
+      "source": "62",
+      "target": "280"
+    },
+    {
+      "id": "6247509",
+      "name": "销售产品",
+      "source": "62",
+      "target": "279"
+    },
+    {
+      "id": "6305368",
+      "name": "销售产品",
+      "source": "62",
+      "target": "297"
+    },
+    {
+      "id": "3046742",
+      "name": "销售产品",
+      "source": "62",
+      "target": "288"
+    },
+    {
+      "id": "8592264",
+      "name": "销售产品",
+      "source": "62",
+      "target": "306"
+    },
+    {
+      "id": "1266857",
+      "name": "销售保险类型",
+      "source": "62",
+      "target": "595"
+    },
+    {
+      "id": "9048542",
+      "name": "销售产品",
+      "source": "61",
+      "target": "94"
+    },
+    {
+      "id": "9851135",
+      "name": "销售产品",
+      "source": "61",
+      "target": "99"
+    },
+    {
+      "id": "1276462",
+      "name": "销售产品",
+      "source": "61",
+      "target": "122"
+    },
+    {
+      "id": "7129035",
+      "name": "销售产品",
+      "source": "61",
+      "target": "130"
+    },
+    {
+      "id": "7929601",
+      "name": "销售产品",
+      "source": "61",
+      "target": "129"
+    },
+    {
+      "id": "7449688",
+      "name": "销售产品",
+      "source": "61",
+      "target": "156"
+    },
+    {
+      "id": "9934592",
+      "name": "销售产品",
+      "source": "61",
+      "target": "159"
+    },
+    {
+      "id": "6940702",
+      "name": "销售产品",
+      "source": "61",
+      "target": "204"
+    },
+    {
+      "id": "8881308",
+      "name": "销售产品",
+      "source": "61",
+      "target": "208"
+    },
+    {
+      "id": "3342717",
+      "name": "销售产品",
+      "source": "61",
+      "target": "214"
+    },
+    {
+      "id": "3085475",
+      "name": "销售产品",
+      "source": "61",
+      "target": "227"
+    },
+    {
+      "id": "5507681",
+      "name": "销售产品",
+      "source": "61",
+      "target": "252"
+    },
+    {
+      "id": "9106061",
+      "name": "销售产品",
+      "source": "61",
+      "target": "245"
+    },
+    {
+      "id": "6318017",
+      "name": "销售产品",
+      "source": "61",
+      "target": "269"
+    },
+    {
+      "id": "3209642",
+      "name": "销售产品",
+      "source": "61",
+      "target": "285"
+    },
+    {
+      "id": "7763096",
+      "name": "销售产品",
+      "source": "61",
+      "target": "278"
+    },
+    {
+      "id": "5616706",
+      "name": "销售产品",
+      "source": "61",
+      "target": "275"
+    },
+    {
+      "id": "7291947",
+      "name": "销售产品",
+      "source": "61",
+      "target": "274"
+    },
+    {
+      "id": "9735401",
+      "name": "销售产品",
+      "source": "61",
+      "target": "300"
+    },
+    {
+      "id": "2720402",
+      "name": "销售产品",
+      "source": "61",
+      "target": "298"
+    },
+    {
+      "id": "4869553",
+      "name": "销售产品",
+      "source": "61",
+      "target": "292"
+    },
+    {
+      "id": "3825206",
+      "name": "销售产品",
+      "source": "61",
+      "target": "294"
+    },
+    {
+      "id": "6453512",
+      "name": "销售产品",
+      "source": "61",
+      "target": "314"
+    },
+    {
+      "id": "7356548",
+      "name": "销售保险类型",
+      "source": "61",
+      "target": "595"
+    },
+    {
+      "id": "4690679",
+      "name": "销售产品",
+      "source": "66",
+      "target": "93"
+    },
+    {
+      "id": "4765498",
+      "name": "销售产品",
+      "source": "66",
+      "target": "105"
+    },
+    {
+      "id": "5285389",
+      "name": "销售产品",
+      "source": "66",
+      "target": "112"
+    },
+    {
+      "id": "1491294",
+      "name": "销售产品",
+      "source": "66",
+      "target": "120"
+    },
+    {
+      "id": "7763188",
+      "name": "销售产品",
+      "source": "66",
+      "target": "150"
+    },
+    {
+      "id": "6404409",
+      "name": "销售产品",
+      "source": "66",
+      "target": "155"
+    },
+    {
+      "id": "9868830",
+      "name": "销售产品",
+      "source": "66",
+      "target": "188"
+    },
+    {
+      "id": "4526724",
+      "name": "销售产品",
+      "source": "66",
+      "target": "219"
+    },
+    {
+      "id": "4236557",
+      "name": "销售产品",
+      "source": "66",
+      "target": "222"
+    },
+    {
+      "id": "4810893",
+      "name": "销售产品",
+      "source": "66",
+      "target": "209"
+    },
+    {
+      "id": "9176573",
+      "name": "销售产品",
+      "source": "66",
+      "target": "233"
+    },
+    {
+      "id": "6901708",
+      "name": "销售产品",
+      "source": "66",
+      "target": "236"
+    },
+    {
+      "id": "3181416",
+      "name": "销售产品",
+      "source": "66",
+      "target": "254"
+    },
+    {
+      "id": "7711047",
+      "name": "销售产品",
+      "source": "66",
+      "target": "247"
+    },
+    {
+      "id": "3232772",
+      "name": "销售产品",
+      "source": "66",
+      "target": "267"
+    },
+    {
+      "id": "2731116",
+      "name": "销售产品",
+      "source": "66",
+      "target": "270"
+    },
+    {
+      "id": "8190921",
+      "name": "销售产品",
+      "source": "66",
+      "target": "259"
+    },
+    {
+      "id": "3456092",
+      "name": "销售产品",
+      "source": "66",
+      "target": "256"
+    },
+    {
+      "id": "2352264",
+      "name": "销售产品",
+      "source": "66",
+      "target": "286"
+    },
+    {
+      "id": "3265547",
+      "name": "销售产品",
+      "source": "66",
+      "target": "277"
+    },
+    {
+      "id": "2997599",
+      "name": "销售产品",
+      "source": "66",
+      "target": "295"
+    },
+    {
+      "id": "7151468",
+      "name": "销售产品",
+      "source": "66",
+      "target": "313"
+    },
+    {
+      "id": "3071395",
+      "name": "销售产品",
+      "source": "66",
+      "target": "310"
+    },
+    {
+      "id": "6832199",
+      "name": "销售产品",
+      "source": "66",
+      "target": "307"
+    },
+    {
+      "id": "9121185",
+      "name": "销售产品",
+      "source": "66",
+      "target": "304"
+    },
+    {
+      "id": "1899169",
+      "name": "销售保险类型",
+      "source": "66",
+      "target": "595"
+    }
+  ],
+  "nodes": [
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "38",
+      "name": "华夏人寿保险股份有限公司",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "86",
+      "name": "华夏关爱宝重大疾病保险（A款）",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "104",
+      "name": "华夏关爱宝重大疾病保险（A款）",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "131",
+      "name": "华夏美丽宝疾病保险",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "151",
+      "name": "华夏常青树重大疾病保险（2016）",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "167",
+      "name": "华夏关爱宝重大疾病保险（C款）",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "177",
+      "name": "华夏关爱宝重大疾病保险（A款）",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "203",
+      "name": "华夏美丽宝疾病保险（B款）",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "200",
+      "name": "华夏健康人生重大疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "216",
+      "name": "华夏常青树重大疾病保险（2015）",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "212",
+      "name": "华夏常青树重大疾病保险（2016）",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "225",
+      "name": "华夏美丽宝疾病保险（B款）",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "226",
+      "name": "华夏健康人生重大疾病保险",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "230",
+      "name": "华夏关爱宝一号重大疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "248",
+      "name": "华夏常青树重大疾病保险（2016）",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "242",
+      "name": "华夏健康人生重大疾病保险",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "65",
+      "name": "合众人寿保险股份有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "92",
+      "name": "合众幸福年年定期防癌疾病保险（A）款",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "96",
+      "name": "合众合家馨女性疾病保险",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "114",
+      "name": "合众优年定期防癌疾病保险",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "152",
+      "name": "合众糖无忧终身特定疾病保险",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "166",
+      "name": "合众一生无忧终身防癌疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "161",
+      "name": "合众定期重大疾病保险",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "181",
+      "name": "合众合家甜蜜无忧终身特定疾病保险",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "198",
+      "name": "合众一年期少儿重大疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "201",
+      "name": "合众一生无忧终身防癌疾病保险",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "231",
+      "name": "合众健康无忧特定恶性肿瘤疾病保险",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "253",
+      "name": "合众一生无忧终身防癌疾病保险",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "266",
+      "name": "合众幸福年年定期防癌疾病保险（B）款",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "276",
+      "name": "合众新爱无忧特定恶性肿瘤疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "273",
+      "name": "合众健康人生重大疾病保险",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "301",
+      "name": "合众糖无忧终身特定疾病保险",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "62",
+      "name": "中国人民健康保险股份有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "98",
+      "name": "中国人民健康保险股份有限公司关爱专家定期重疾个人疾病保险",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "101",
+      "name": "中国人民健康保险股份有限公司关爱专家双重呵护终身重大疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "108",
+      "name": "中国人民健康保险股份有限公司乐享童年少儿重大疾病保险",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "115",
+      "name": "中国人民健康保险股份有限公司天使之翼少儿重大疾病保险",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "119",
+      "name": "中国人民健康保险股份有限公司美丽人生女性特定重大疾病保险",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "127",
+      "name": "中国人民健康保险股份有限公司关爱专家终身重疾个人疾病保险",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "144",
+      "name": "中国人民健康保险股份有限公司关爱健康防癌个人疾病保险",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "174",
+      "name": "中国人民健康保险股份有限公司好日子个人重大疾病保险",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "191",
+      "name": "中国人民健康保险股份有限公司康乐人生个人重大疾病保险",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "199",
+      "name": "中国人民健康保险股份有限公司北肿防癌管家个人疾病保险（B款）",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "197",
+      "name": "中国人民健康保险股份有限公司守护天使少儿特定疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "194",
+      "name": "中国人民健康保险股份有限公司康乐人生个人重大疾病保险（A款）",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "221",
+      "name": "中国人民健康保险股份有限公司康健无忧个人防癌疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "220",
+      "name": "中国人民健康保险股份有限公司守护天使少儿重大疾病保险",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "215",
+      "name": "中国人民健康保险股份有限公司北肿防癌管家个人疾病保险（A款）",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "61",
+      "name": "新华人寿保险股份有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "94",
+      "name": "新华人寿保险股份有限公司健康无忧D款重大疾病保险",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "99",
+      "name": "新华人寿保险股份有限公司医惠宝重大疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "122",
+      "name": "新华人寿保险股份有限公司康健无忧重大疾病保险（C款）",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "130",
+      "name": "新华人寿保险股份有限公司健康福星增额（2014）重大疾病保险",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "129",
+      "name": "新华人寿保险股份有限公司健康无忧C款重大疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "156",
+      "name": "康健吉顺定期防癌疾病保险",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "159",
+      "name": "新华人寿保险股份有限公司健康无忧青少年重大疾病保险（A款）",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "204",
+      "name": "新华人寿保险股份有限公司健康无忧青少年重大疾病保险（C款）",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "208",
+      "name": "新华人寿保险股份有限公司i相依重大疾病保险",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "214",
+      "name": "新华人寿保险股份有限公司i健康定期重大疾病保险",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "227",
+      "name": "新华人寿保险股份有限公司多倍保障重大疾病保险",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "252",
+      "name": "新华人寿保险股份有限公司康健无忧青少年重大疾病保险（C款）",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "245",
+      "name": "新华人寿保险股份有限公司乐享健康A款防癌疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "269",
+      "name": "新华人寿保险股份有限公司上海医保账户重大疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "285",
+      "name": "新华人寿保险股份有限公司健康无忧青少年重大疾病保险（C1款）",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "66",
+      "name": "中国人寿保险股份有限公司",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "93",
+      "name": "国寿江苏医保账户重大疾病保险",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "105",
+      "name": "国寿康惠终身重大疾病保险",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "112",
+      "name": "国寿上海医保账户重大疾病保险",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "120",
+      "name": "国寿少儿重大疾病保险",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "150",
+      "name": "国寿康宁定期重大疾病保险（2013版）（B款）",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "155",
+      "name": "国寿康欣终身重大疾病保险",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "188",
+      "name": "国寿广佑人生终身重大疾病保险",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "219",
+      "name": "国寿康宁终身重大疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "222",
+      "name": "国寿康宁嘉保疾病保险",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "209",
+      "name": "国寿康宁定期重大疾病保险",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "233",
+      "name": "国寿尊享康健重大疾病保险",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "236",
+      "name": "国寿康复金重大疾病保险",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "254",
+      "name": "国寿康宁终身重大疾病保险（至尊版）",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "247",
+      "name": "国寿康恒重大疾病保险（2007修订版）",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "267",
+      "name": "国寿鸿康嘉保疾病保险（A款）",
+      "symbolSize": 43
+    }
+  ]
+

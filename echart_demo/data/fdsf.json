@@ -1,0 +1,2286 @@
+{
+  "links": [
+    {
+      "id": "4644137",
+      "name": "销售保险类型",
+      "source": "0",
+      "target": "595"
+    },
+    {
+      "id": "5314334",
+      "name": "销售产品",
+      "source": "0",
+      "target": "251"
+    },
+    {
+      "id": "4490849",
+      "name": "销售产品",
+      "source": "0",
+      "target": "229"
+    },
+    {
+      "id": "9997006",
+      "name": "销售保险类型",
+      "source": "3",
+      "target": "595"
+    },
+    {
+      "id": "2765034",
+      "name": "销售产品",
+      "source": "3",
+      "target": "169"
+    },
+    {
+      "id": "3509429",
+      "name": "销售产品",
+      "source": "3",
+      "target": "102"
+    },
+    {
+      "id": "6450386",
+      "name": "销售保险类型",
+      "source": "5",
+      "target": "597"
+    },
+    {
+      "id": "6982526",
+      "name": "销售产品",
+      "source": "5",
+      "target": "243"
+    },
+    {
+      "id": "9848021",
+      "name": "销售产品",
+      "source": "5",
+      "target": "210"
+    },
+    {
+      "id": "7314389",
+      "name": "销售产品",
+      "source": "5",
+      "target": "211"
+    },
+    {
+      "id": "9103170",
+      "name": "销售产品",
+      "source": "5",
+      "target": "186"
+    },
+    {
+      "id": "1857696",
+      "name": "销售产品",
+      "source": "5",
+      "target": "162"
+    },
+    {
+      "id": "5542381",
+      "name": "销售保险类型",
+      "source": "7",
+      "target": "595"
+    },
+    {
+      "id": "6251615",
+      "name": "销售产品",
+      "source": "7",
+      "target": "249"
+    },
+    {
+      "id": "5259127",
+      "name": "销售产品",
+      "source": "7",
+      "target": "135"
+    },
+    {
+      "id": "4613027",
+      "name": "销售产品",
+      "source": "7",
+      "target": "123"
+    },
+    {
+      "id": "4063071",
+      "name": "销售产品",
+      "source": "7",
+      "target": "116"
+    },
+    {
+      "id": "6054908",
+      "name": "销售产品",
+      "source": "7",
+      "target": "100"
+    },
+    {
+      "id": "6793505",
+      "name": "销售产品",
+      "source": "7",
+      "target": "87"
+    },
+    {
+      "id": "5974511",
+      "name": "销售保险类型",
+      "source": "11",
+      "target": "597"
+    },
+    {
+      "id": "9344887",
+      "name": "销售产品",
+      "source": "11",
+      "target": "196"
+    },
+    {
+      "id": "3962179",
+      "name": "销售保险类型",
+      "source": "15",
+      "target": "595"
+    },
+    {
+      "id": "4360289",
+      "name": "销售产品",
+      "source": "15",
+      "target": "239"
+    },
+    {
+      "id": "5297669",
+      "name": "销售产品",
+      "source": "15",
+      "target": "232"
+    },
+    {
+      "id": "8839456",
+      "name": "销售产品",
+      "source": "15",
+      "target": "184"
+    },
+    {
+      "id": "4911353",
+      "name": "销售产品",
+      "source": "15",
+      "target": "134"
+    },
+    {
+      "id": "5019605",
+      "name": "销售保险类型",
+      "source": "17",
+      "target": "597"
+    },
+    {
+      "id": "2379098",
+      "name": "销售产品",
+      "source": "17",
+      "target": "290"
+    },
+    {
+      "id": "5060182",
+      "name": "销售产品",
+      "source": "17",
+      "target": "250"
+    },
+    {
+      "id": "9683272",
+      "name": "销售产品",
+      "source": "17",
+      "target": "228"
+    },
+    {
+      "id": "5834482",
+      "name": "销售产品",
+      "source": "17",
+      "target": "234"
+    },
+    {
+      "id": "3240516",
+      "name": "销售产品",
+      "source": "17",
+      "target": "205"
+    },
+    {
+      "id": "1262375",
+      "name": "销售产品",
+      "source": "17",
+      "target": "195"
+    },
+    {
+      "id": "8426703",
+      "name": "销售产品",
+      "source": "17",
+      "target": "190"
+    },
+    {
+      "id": "5462177",
+      "name": "销售产品",
+      "source": "17",
+      "target": "128"
+    },
+    {
+      "id": "1906394",
+      "name": "销售产品",
+      "source": "17",
+      "target": "82"
+    },
+    {
+      "id": "2841867",
+      "name": "销售保险类型",
+      "source": "18",
+      "target": "595"
+    },
+    {
+      "id": "4038387",
+      "name": "销售产品",
+      "source": "18",
+      "target": "258"
+    },
+    {
+      "id": "2299592",
+      "name": "销售保险类型",
+      "source": "20",
+      "target": "597"
+    },
+    {
+      "id": "9582542",
+      "name": "销售产品",
+      "source": "20",
+      "target": "311"
+    },
+    {
+      "id": "9445936",
+      "name": "销售产品",
+      "source": "20",
+      "target": "265"
+    },
+    {
+      "id": "6817135",
+      "name": "销售产品",
+      "source": "20",
+      "target": "213"
+    },
+    {
+      "id": "1164275",
+      "name": "销售产品",
+      "source": "20",
+      "target": "202"
+    },
+    {
+      "id": "2084252",
+      "name": "销售产品",
+      "source": "20",
+      "target": "176"
+    },
+    {
+      "id": "4307071",
+      "name": "销售产品",
+      "source": "20",
+      "target": "171"
+    },
+    {
+      "id": "3565604",
+      "name": "销售产品",
+      "source": "20",
+      "target": "148"
+    },
+    {
+      "id": "5214171",
+      "name": "销售产品",
+      "source": "20",
+      "target": "133"
+    },
+    {
+      "id": "9564941",
+      "name": "销售产品",
+      "source": "20",
+      "target": "103"
+    },
+    {
+      "id": "8968425",
+      "name": "销售产品",
+      "source": "20",
+      "target": "97"
+    },
+    {
+      "id": "6795248",
+      "name": "销售产品",
+      "source": "20",
+      "target": "84"
+    },
+    {
+      "id": "3261792",
+      "name": "销售保险类型",
+      "source": "21",
+      "target": "597"
+    },
+    {
+      "id": "5928312",
+      "name": "销售产品",
+      "source": "21",
+      "target": "299"
+    },
+    {
+      "id": "3180115",
+      "name": "销售产品",
+      "source": "21",
+      "target": "296"
+    },
+    {
+      "id": "9981274",
+      "name": "销售产品",
+      "source": "21",
+      "target": "283"
+    },
+    {
+      "id": "9768519",
+      "name": "销售产品",
+      "source": "21",
+      "target": "264"
+    },
+    {
+      "id": "9868357",
+      "name": "销售产品",
+      "source": "21",
+      "target": "189"
+    },
+    {
+      "id": "9192063",
+      "name": "销售产品",
+      "source": "21",
+      "target": "154"
+    },
+    {
+      "id": "7982282",
+      "name": "销售产品",
+      "source": "21",
+      "target": "132"
+    },
+    {
+      "id": "1292296",
+      "name": "销售产品",
+      "source": "21",
+      "target": "118"
+    },
+    {
+      "id": "8986646",
+      "name": "销售产品",
+      "source": "21",
+      "target": "89"
+    },
+    {
+      "id": "2190032",
+      "name": "销售保险类型",
+      "source": "22",
+      "target": "597"
+    },
+    {
+      "id": "1926878",
+      "name": "销售产品",
+      "source": "22",
+      "target": "246"
+    },
+    {
+      "id": "1943628",
+      "name": "销售产品",
+      "source": "22",
+      "target": "255"
+    },
+    {
+      "id": "3478469",
+      "name": "销售产品",
+      "source": "22",
+      "target": "237"
+    },
+    {
+      "id": "2545613",
+      "name": "销售产品",
+      "source": "22",
+      "target": "140"
+    },
+    {
+      "id": "3068508",
+      "name": "销售保险类型",
+      "source": "29",
+      "target": "595"
+    },
+    {
+      "id": "4649879",
+      "name": "销售产品",
+      "source": "29",
+      "target": "291"
+    },
+    {
+      "id": "1023506",
+      "name": "销售产品",
+      "source": "29",
+      "target": "146"
+    },
+    {
+      "id": "1303739",
+      "name": "销售产品",
+      "source": "29",
+      "target": "95"
+    },
+    {
+      "id": "6447940",
+      "name": "销售保险类型",
+      "source": "31",
+      "target": "595"
+    },
+    {
+      "id": "3499014",
+      "name": "销售产品",
+      "source": "31",
+      "target": "137"
+    },
+    {
+      "id": "5183212",
+      "name": "销售保险类型",
+      "source": "33",
+      "target": "597"
+    },
+    {
+      "id": "9877985",
+      "name": "销售产品",
+      "source": "33",
+      "target": "268"
+    },
+    {
+      "id": "9500102",
+      "name": "销售产品",
+      "source": "33",
+      "target": "241"
+    },
+    {
+      "id": "9797055",
+      "name": "销售产品",
+      "source": "33",
+      "target": "91"
+    },
+    {
+      "id": "9610459",
+      "name": "销售保险类型",
+      "source": "35",
+      "target": "595"
+    },
+    {
+      "id": "4369355",
+      "name": "销售产品",
+      "source": "35",
+      "target": "139"
+    },
+    {
+      "id": "4664841",
+      "name": "销售保险类型",
+      "source": "37",
+      "target": "597"
+    },
+    {
+      "id": "7587672",
+      "name": "销售产品",
+      "source": "37",
+      "target": "107"
+    },
+    {
+      "id": "1218844",
+      "name": "销售产品",
+      "source": "38",
+      "target": "86"
+    },
+    {
+      "id": "8239314",
+      "name": "销售产品",
+      "source": "38",
+      "target": "104"
+    },
+    {
+      "id": "6308452",
+      "name": "销售产品",
+      "source": "38",
+      "target": "131"
+    },
+    {
+      "id": "7361129",
+      "name": "销售产品",
+      "source": "38",
+      "target": "151"
+    },
+    {
+      "id": "6177907",
+      "name": "销售产品",
+      "source": "38",
+      "target": "167"
+    },
+    {
+      "id": "5765286",
+      "name": "销售产品",
+      "source": "38",
+      "target": "177"
+    },
+    {
+      "id": "6091926",
+      "name": "销售产品",
+      "source": "38",
+      "target": "203"
+    },
+    {
+      "id": "8667830",
+      "name": "销售产品",
+      "source": "38",
+      "target": "200"
+    },
+    {
+      "id": "6764785",
+      "name": "销售产品",
+      "source": "38",
+      "target": "216"
+    },
+    {
+      "id": "6893229",
+      "name": "销售产品",
+      "source": "38",
+      "target": "212"
+    },
+    {
+      "id": "4284699",
+      "name": "销售产品",
+      "source": "38",
+      "target": "225"
+    },
+    {
+      "id": "1783831",
+      "name": "销售产品",
+      "source": "38",
+      "target": "226"
+    },
+    {
+      "id": "5111901",
+      "name": "销售产品",
+      "source": "38",
+      "target": "230"
+    },
+    {
+      "id": "9889469",
+      "name": "销售产品",
+      "source": "38",
+      "target": "248"
+    },
+    {
+      "id": "3115602",
+      "name": "销售产品",
+      "source": "38",
+      "target": "242"
+    },
+    {
+      "id": "4052848",
+      "name": "销售产品",
+      "source": "38",
+      "target": "240"
+    },
+    {
+      "id": "5196750",
+      "name": "销售产品",
+      "source": "38",
+      "target": "272"
+    },
+    {
+      "id": "1095295",
+      "name": "销售保险类型",
+      "source": "38",
+      "target": "596"
+    },
+    {
+      "id": "2712509",
+      "name": "销售保险类型",
+      "source": "40",
+      "target": "595"
+    },
+    {
+      "id": "4628507",
+      "name": "销售产品",
+      "source": "40",
+      "target": "244"
+    },
+    {
+      "id": "8327966",
+      "name": "销售产品",
+      "source": "40",
+      "target": "117"
+    },
+    {
+      "id": "9813285",
+      "name": "销售保险类型",
+      "source": "42",
+      "target": "595"
+    },
+    {
+      "id": "2428662",
+      "name": "销售产品",
+      "source": "42",
+      "target": "224"
+    },
+    {
+      "id": "9519203",
+      "name": "销售产品",
+      "source": "42",
+      "target": "170"
+    },
+    {
+      "id": "5430097",
+      "name": "销售产品",
+      "source": "42",
+      "target": "157"
+    },
+    {
+      "id": "7613578",
+      "name": "销售产品",
+      "source": "42",
+      "target": "85"
+    },
+    {
+      "id": "2434763",
+      "name": "销售保险类型",
+      "source": "44",
+      "target": "595"
+    },
+    {
+      "id": "7023992",
+      "name": "销售产品",
+      "source": "44",
+      "target": "193"
+    },
+    {
+      "id": "2477914",
+      "name": "销售保险类型",
+      "source": "46",
+      "target": "595"
+    },
+    {
+      "id": "6977321",
+      "name": "销售产品",
+      "source": "46",
+      "target": "261"
+    },
+    {
+      "id": "2660868",
+      "name": "销售产品",
+      "source": "46",
+      "target": "126"
+    },
+    {
+      "id": "3561603",
+      "name": "销售保险类型",
+      "source": "47",
+      "target": "595"
+    },
+    {
+      "id": "1607884",
+      "name": "销售产品",
+      "source": "47",
+      "target": "182"
+    },
+    {
+      "id": "1087498",
+      "name": "销售产品",
+      "source": "47",
+      "target": "88"
+    },
+    {
+      "id": "3236625",
+      "name": "销售保险类型",
+      "source": "48",
+      "target": "595"
+    },
+    {
+      "id": "1985203",
+      "name": "销售产品",
+      "source": "48",
+      "target": "287"
+    },
+    {
+      "id": "5833217",
+      "name": "销售产品",
+      "source": "48",
+      "target": "284"
+    },
+    {
+      "id": "5824730",
+      "name": "销售产品",
+      "source": "48",
+      "target": "223"
+    },
+    {
+      "id": "9978579",
+      "name": "销售产品",
+      "source": "48",
+      "target": "142"
+    },
+    {
+      "id": "9056474",
+      "name": "销售保险类型",
+      "source": "49",
+      "target": "595"
+    },
+    {
+      "id": "5203796",
+      "name": "销售产品",
+      "source": "49",
+      "target": "271"
+    },
+    {
+      "id": "7066456",
+      "name": "销售产品",
+      "source": "49",
+      "target": "235"
+    },
+    {
+      "id": "7370817",
+      "name": "销售产品",
+      "source": "49",
+      "target": "217"
+    },
+    {
+      "id": "5108758",
+      "name": "销售产品",
+      "source": "49",
+      "target": "187"
+    },
+    {
+      "id": "1207790",
+      "name": "销售产品",
+      "source": "49",
+      "target": "178"
+    },
+    {
+      "id": "4686014",
+      "name": "销售产品",
+      "source": "49",
+      "target": "172"
+    },
+    {
+      "id": "5764587",
+      "name": "销售产品",
+      "source": "49",
+      "target": "160"
+    },
+    {
+      "id": "1265942",
+      "name": "销售产品",
+      "source": "49",
+      "target": "158"
+    },
+    {
+      "id": "4591686",
+      "name": "销售产品",
+      "source": "49",
+      "target": "136"
+    },
+    {
+      "id": "7111293",
+      "name": "销售产品",
+      "source": "49",
+      "target": "121"
+    },
+    {
+      "id": "1564847",
+      "name": "销售保险类型",
+      "source": "50",
+      "target": "596"
+    },
+    {
+      "id": "2155393",
+      "name": "销售产品",
+      "source": "50",
+      "target": "238"
+    },
+    {
+      "id": "8796622",
+      "name": "销售产品",
+      "source": "50",
+      "target": "110"
+    },
+    {
+      "id": "1245683",
+      "name": "销售保险类型",
+      "source": "52",
+      "target": "597"
+    },
+    {
+      "id": "3957566",
+      "name": "销售产品",
+      "source": "52",
+      "target": "206"
+    },
+    {
+      "id": "7884872",
+      "name": "销售产品",
+      "source": "52",
+      "target": "153"
+    },
+    {
+      "id": "2602407",
+      "name": "销售产品",
+      "source": "52",
+      "target": "124"
+    },
+    {
+      "id": "3056838",
+      "name": "销售保险类型",
+      "source": "55",
+      "target": "596"
+    },
+    {
+      "id": "3687976",
+      "name": "销售产品",
+      "source": "55",
+      "target": "308"
+    },
+    {
+      "id": "4221381",
+      "name": "销售产品",
+      "source": "55",
+      "target": "312"
+    },
+    {
+      "id": "9132700",
+      "name": "销售产品",
+      "source": "55",
+      "target": "303"
+    },
+    {
+      "id": "6565906",
+      "name": "销售产品",
+      "source": "55",
+      "target": "302"
+    },
+    {
+      "id": "3332185",
+      "name": "销售产品",
+      "source": "55",
+      "target": "257"
+    },
+    {
+      "id": "7147091",
+      "name": "销售产品",
+      "source": "55",
+      "target": "192"
+    },
+    {
+      "id": "3923691",
+      "name": "销售产品",
+      "source": "55",
+      "target": "180"
+    },
+    {
+      "id": "7888957",
+      "name": "销售产品",
+      "source": "55",
+      "target": "175"
+    },
+    {
+      "id": "7694547",
+      "name": "销售产品",
+      "source": "55",
+      "target": "109"
+    },
+    {
+      "id": "4036628",
+      "name": "销售保险类型",
+      "source": "56",
+      "target": "597"
+    },
+    {
+      "id": "5194588",
+      "name": "销售产品",
+      "source": "56",
+      "target": "218"
+    },
+    {
+      "id": "6009247",
+      "name": "销售产品",
+      "source": "56",
+      "target": "207"
+    },
+    {
+      "id": "4732119",
+      "name": "销售产品",
+      "source": "56",
+      "target": "183"
+    },
+    {
+      "id": "9026068",
+      "name": "销售产品",
+      "source": "56",
+      "target": "163"
+    },
+    {
+      "id": "8011585",
+      "name": "销售产品",
+      "source": "56",
+      "target": "164"
+    },
+    {
+      "id": "5627879",
+      "name": "销售产品",
+      "source": "56",
+      "target": "147"
+    },
+    {
+      "id": "7246011",
+      "name": "销售产品",
+      "source": "56",
+      "target": "149"
+    },
+    {
+      "id": "6926483",
+      "name": "销售产品",
+      "source": "56",
+      "target": "138"
+    },
+    {
+      "id": "2760805",
+      "name": "销售产品",
+      "source": "56",
+      "target": "125"
+    },
+    {
+      "id": "7172731",
+      "name": "销售产品",
+      "source": "61",
+      "target": "94"
+    },
+    {
+      "id": "2424169",
+      "name": "销售产品",
+      "source": "61",
+      "target": "99"
+    },
+    {
+      "id": "7355823",
+      "name": "销售产品",
+      "source": "61",
+      "target": "122"
+    },
+    {
+      "id": "8442381",
+      "name": "销售产品",
+      "source": "61",
+      "target": "130"
+    },
+    {
+      "id": "1717364",
+      "name": "销售产品",
+      "source": "61",
+      "target": "129"
+    },
+    {
+      "id": "6536379",
+      "name": "销售产品",
+      "source": "61",
+      "target": "156"
+    },
+    {
+      "id": "8765102",
+      "name": "销售产品",
+      "source": "61",
+      "target": "159"
+    },
+    {
+      "id": "9788859",
+      "name": "销售产品",
+      "source": "61",
+      "target": "204"
+    },
+    {
+      "id": "8787788",
+      "name": "销售产品",
+      "source": "61",
+      "target": "208"
+    },
+    {
+      "id": "2915848",
+      "name": "销售产品",
+      "source": "61",
+      "target": "214"
+    },
+    {
+      "id": "1629862",
+      "name": "销售产品",
+      "source": "61",
+      "target": "227"
+    },
+    {
+      "id": "4740605",
+      "name": "销售产品",
+      "source": "61",
+      "target": "252"
+    },
+    {
+      "id": "9092743",
+      "name": "销售产品",
+      "source": "61",
+      "target": "245"
+    },
+    {
+      "id": "4524528",
+      "name": "销售产品",
+      "source": "61",
+      "target": "269"
+    },
+    {
+      "id": "4154718",
+      "name": "销售产品",
+      "source": "61",
+      "target": "285"
+    },
+    {
+      "id": "4112151",
+      "name": "销售产品",
+      "source": "61",
+      "target": "278"
+    },
+    {
+      "id": "5815518",
+      "name": "销售产品",
+      "source": "61",
+      "target": "275"
+    },
+    {
+      "id": "5861175",
+      "name": "销售产品",
+      "source": "61",
+      "target": "274"
+    },
+    {
+      "id": "6939779",
+      "name": "销售产品",
+      "source": "61",
+      "target": "300"
+    },
+    {
+      "id": "4116973",
+      "name": "销售产品",
+      "source": "61",
+      "target": "298"
+    },
+    {
+      "id": "1401685",
+      "name": "销售产品",
+      "source": "61",
+      "target": "292"
+    },
+    {
+      "id": "2656740",
+      "name": "销售产品",
+      "source": "61",
+      "target": "294"
+    },
+    {
+      "id": "7278091",
+      "name": "销售产品",
+      "source": "61",
+      "target": "314"
+    },
+    {
+      "id": "7503719",
+      "name": "销售保险类型",
+      "source": "61",
+      "target": "595"
+    },
+    {
+      "id": "5718982",
+      "name": "销售产品",
+      "source": "62",
+      "target": "98"
+    },
+    {
+      "id": "6681778",
+      "name": "销售产品",
+      "source": "62",
+      "target": "101"
+    },
+    {
+      "id": "6726722",
+      "name": "销售产品",
+      "source": "62",
+      "target": "108"
+    },
+    {
+      "id": "3573399",
+      "name": "销售产品",
+      "source": "62",
+      "target": "115"
+    },
+    {
+      "id": "2091909",
+      "name": "销售产品",
+      "source": "62",
+      "target": "119"
+    },
+    {
+      "id": "1069489",
+      "name": "销售产品",
+      "source": "62",
+      "target": "127"
+    },
+    {
+      "id": "8432508",
+      "name": "销售产品",
+      "source": "62",
+      "target": "144"
+    },
+    {
+      "id": "4185628",
+      "name": "销售产品",
+      "source": "62",
+      "target": "174"
+    },
+    {
+      "id": "8923293",
+      "name": "销售产品",
+      "source": "62",
+      "target": "191"
+    },
+    {
+      "id": "6350768",
+      "name": "销售产品",
+      "source": "62",
+      "target": "199"
+    },
+    {
+      "id": "1391069",
+      "name": "销售产品",
+      "source": "62",
+      "target": "197"
+    },
+    {
+      "id": "4558405",
+      "name": "销售产品",
+      "source": "62",
+      "target": "194"
+    },
+    {
+      "id": "4967545",
+      "name": "销售产品",
+      "source": "62",
+      "target": "221"
+    },
+    {
+      "id": "9702925",
+      "name": "销售产品",
+      "source": "62",
+      "target": "220"
+    },
+    {
+      "id": "4887987",
+      "name": "销售产品",
+      "source": "62",
+      "target": "215"
+    },
+    {
+      "id": "1425239",
+      "name": "销售产品",
+      "source": "62",
+      "target": "280"
+    },
+    {
+      "id": "4291333",
+      "name": "销售产品",
+      "source": "62",
+      "target": "279"
+    },
+    {
+      "id": "5317293",
+      "name": "销售产品",
+      "source": "62",
+      "target": "297"
+    },
+    {
+      "id": "9481618",
+      "name": "销售产品",
+      "source": "62",
+      "target": "288"
+    },
+    {
+      "id": "9586645",
+      "name": "销售产品",
+      "source": "62",
+      "target": "306"
+    },
+    {
+      "id": "9632998",
+      "name": "销售保险类型",
+      "source": "62",
+      "target": "595"
+    },
+    {
+      "id": "1893286",
+      "name": "销售保险类型",
+      "source": "64",
+      "target": "597"
+    },
+    {
+      "id": "1273369",
+      "name": "销售产品",
+      "source": "64",
+      "target": "263"
+    },
+    {
+      "id": "9257184",
+      "name": "销售产品",
+      "source": "65",
+      "target": "92"
+    },
+    {
+      "id": "9956083",
+      "name": "销售产品",
+      "source": "65",
+      "target": "96"
+    },
+    {
+      "id": "3022039",
+      "name": "销售产品",
+      "source": "65",
+      "target": "114"
+    },
+    {
+      "id": "1035658",
+      "name": "销售产品",
+      "source": "65",
+      "target": "152"
+    },
+    {
+      "id": "7804856",
+      "name": "销售产品",
+      "source": "65",
+      "target": "166"
+    },
+    {
+      "id": "7138109",
+      "name": "销售产品",
+      "source": "65",
+      "target": "161"
+    },
+    {
+      "id": "2085398",
+      "name": "销售产品",
+      "source": "65",
+      "target": "181"
+    },
+    {
+      "id": "2067392",
+      "name": "销售产品",
+      "source": "65",
+      "target": "198"
+    },
+    {
+      "id": "9373226",
+      "name": "销售产品",
+      "source": "65",
+      "target": "201"
+    },
+    {
+      "id": "1922783",
+      "name": "销售产品",
+      "source": "65",
+      "target": "231"
+    },
+    {
+      "id": "6246462",
+      "name": "销售产品",
+      "source": "65",
+      "target": "253"
+    },
+    {
+      "id": "4035665",
+      "name": "销售产品",
+      "source": "65",
+      "target": "266"
+    },
+    {
+      "id": "4192892",
+      "name": "销售产品",
+      "source": "65",
+      "target": "276"
+    },
+    {
+      "id": "7762766",
+      "name": "销售产品",
+      "source": "65",
+      "target": "273"
+    },
+    {
+      "id": "6587366",
+      "name": "销售产品",
+      "source": "65",
+      "target": "301"
+    },
+    {
+      "id": "1478049",
+      "name": "销售产品",
+      "source": "65",
+      "target": "289"
+    },
+    {
+      "id": "8261589",
+      "name": "销售产品",
+      "source": "65",
+      "target": "309"
+    },
+    {
+      "id": "2437492",
+      "name": "销售产品",
+      "source": "65",
+      "target": "305"
+    },
+    {
+      "id": "9177724",
+      "name": "销售保险类型",
+      "source": "65",
+      "target": "597"
+    },
+    {
+      "id": "8300596",
+      "name": "销售产品",
+      "source": "66",
+      "target": "93"
+    },
+    {
+      "id": "3628050",
+      "name": "销售产品",
+      "source": "66",
+      "target": "105"
+    },
+    {
+      "id": "4126207",
+      "name": "销售产品",
+      "source": "66",
+      "target": "112"
+    },
+    {
+      "id": "5045898",
+      "name": "销售产品",
+      "source": "66",
+      "target": "120"
+    },
+    {
+      "id": "4031567",
+      "name": "销售产品",
+      "source": "66",
+      "target": "150"
+    },
+    {
+      "id": "7831162",
+      "name": "销售产品",
+      "source": "66",
+      "target": "155"
+    },
+    {
+      "id": "4348460",
+      "name": "销售产品",
+      "source": "66",
+      "target": "188"
+    },
+    {
+      "id": "6050237",
+      "name": "销售产品",
+      "source": "66",
+      "target": "219"
+    },
+    {
+      "id": "4579901",
+      "name": "销售产品",
+      "source": "66",
+      "target": "222"
+    },
+    {
+      "id": "8698995",
+      "name": "销售产品",
+      "source": "66",
+      "target": "209"
+    },
+    {
+      "id": "6750135",
+      "name": "销售产品",
+      "source": "66",
+      "target": "233"
+    },
+    {
+      "id": "5081137",
+      "name": "销售产品",
+      "source": "66",
+      "target": "236"
+    },
+    {
+      "id": "6579361",
+      "name": "销售产品",
+      "source": "66",
+      "target": "254"
+    },
+    {
+      "id": "4762661",
+      "name": "销售产品",
+      "source": "66",
+      "target": "247"
+    },
+    {
+      "id": "9726519",
+      "name": "销售产品",
+      "source": "66",
+      "target": "267"
+    },
+    {
+      "id": "3437099",
+      "name": "销售产品",
+      "source": "66",
+      "target": "270"
+    },
+    {
+      "id": "3801559",
+      "name": "销售产品",
+      "source": "66",
+      "target": "259"
+    },
+    {
+      "id": "9233547",
+      "name": "销售产品",
+      "source": "66",
+      "target": "256"
+    },
+    {
+      "id": "2837582",
+      "name": "销售产品",
+      "source": "66",
+      "target": "286"
+    },
+    {
+      "id": "9645166",
+      "name": "销售产品",
+      "source": "66",
+      "target": "277"
+    },
+    {
+      "id": "9591531",
+      "name": "销售产品",
+      "source": "66",
+      "target": "295"
+    },
+    {
+      "id": "8121646",
+      "name": "销售产品",
+      "source": "66",
+      "target": "313"
+    },
+    {
+      "id": "2429899",
+      "name": "销售产品",
+      "source": "66",
+      "target": "310"
+    },
+    {
+      "id": "2166096",
+      "name": "销售产品",
+      "source": "66",
+      "target": "307"
+    },
+    {
+      "id": "6295452",
+      "name": "销售产品",
+      "source": "66",
+      "target": "304"
+    },
+    {
+      "id": "1732568",
+      "name": "销售保险类型",
+      "source": "66",
+      "target": "595"
+    },
+    {
+      "id": "1163122",
+      "name": "销售保险类型",
+      "source": "69",
+      "target": "595"
+    },
+    {
+      "id": "4831784",
+      "name": "销售产品",
+      "source": "69",
+      "target": "282"
+    },
+    {
+      "id": "8449417",
+      "name": "销售产品",
+      "source": "69",
+      "target": "179"
+    },
+    {
+      "id": "2347038",
+      "name": "销售产品",
+      "source": "69",
+      "target": "145"
+    },
+    {
+      "id": "2535687",
+      "name": "销售产品",
+      "source": "69",
+      "target": "143"
+    },
+    {
+      "id": "4459171",
+      "name": "销售产品",
+      "source": "69",
+      "target": "106"
+    },
+    {
+      "id": "9022911",
+      "name": "销售产品",
+      "source": "69",
+      "target": "90"
+    },
+    {
+      "id": "1786674",
+      "name": "销售产品",
+      "source": "69",
+      "target": "83"
+    },
+    {
+      "id": "9112815",
+      "name": "销售产品",
+      "source": "69",
+      "target": "81"
+    },
+    {
+      "id": "4115353",
+      "name": "销售保险类型",
+      "source": "71",
+      "target": "595"
+    },
+    {
+      "id": "3226385",
+      "name": "销售产品",
+      "source": "71",
+      "target": "293"
+    },
+    {
+      "id": "9354209",
+      "name": "销售产品",
+      "source": "71",
+      "target": "168"
+    },
+    {
+      "id": "5597194",
+      "name": "销售产品",
+      "source": "71",
+      "target": "80"
+    },
+    {
+      "id": "9514991",
+      "name": "销售保险类型",
+      "source": "72",
+      "target": "597"
+    },
+    {
+      "id": "1533342",
+      "name": "销售产品",
+      "source": "72",
+      "target": "113"
+    },
+    {
+      "id": "5001361",
+      "name": "销售保险类型",
+      "source": "76",
+      "target": "595"
+    },
+    {
+      "id": "1703314",
+      "name": "销售产品",
+      "source": "76",
+      "target": "185"
+    },
+    {
+      "id": "5530092",
+      "name": "销售产品",
+      "source": "76",
+      "target": "165"
+    },
+    {
+      "id": "2365433",
+      "name": "销售保险类型",
+      "source": "78",
+      "target": "595"
+    },
+    {
+      "id": "2557443",
+      "name": "销售产品",
+      "source": "78",
+      "target": "281"
+    },
+    {
+      "id": "5068582",
+      "name": "销售产品",
+      "source": "78",
+      "target": "262"
+    },
+    {
+      "id": "4117525",
+      "name": "销售保险类型",
+      "source": "79",
+      "target": "595"
+    },
+    {
+      "id": "5416325",
+      "name": "销售产品",
+      "source": "79",
+      "target": "260"
+    },
+    {
+      "id": "5951443",
+      "name": "销售产品",
+      "source": "79",
+      "target": "173"
+    },
+    {
+      "id": "7937872",
+      "name": "销售产品",
+      "source": "79",
+      "target": "141"
+    },
+    {
+      "id": "5304443",
+      "name": "销售产品",
+      "source": "79",
+      "target": "111"
+    },
+    {
+      "id": "9690270",
+      "name": "保单备案时间",
+      "source": "80",
+      "target": "9932"
+    },
+    {
+      "id": "5654118",
+      "name": "所含",
+      "source": "80",
+      "target": "9639"
+    },
+    {
+      "id": "1699525",
+      "name": "所含疾病集合",
+      "source": "80",
+      "target": "598"
+    },
+    {
+      "id": "1717346",
+      "name": "被保险人年龄要求上限",
+      "source": "80",
+      "target": "585"
+    },
+    {
+      "id": "1451931",
+      "name": "所属保险类型",
+      "source": "80",
+      "target": "592"
+    },
+    {
+      "id": "6411584",
+      "name": "所属保险类型",
+      "source": "80",
+      "target": "593"
+    },
+    {
+      "id": "3680970",
+      "name": "所属保险类型",
+      "source": "80",
+      "target": "594"
+    },
+    {
+      "id": "4301742",
+      "name": "所属保险类型",
+      "source": "80",
+      "target": "595"
+    },
+    {
+      "id": "6870909",
+      "name": "保险期间类型",
+      "source": "80",
+      "target": "583"
+    },
+    {
+      "id": "8696511",
+      "name": "产品销售状态",
+      "source": "80",
+      "target": "574"
+    },
+    {
+      "id": "6006051",
+      "name": "专属",
+      "source": "80",
+      "target": "570"
+    },
+    {
+      "id": "4958122",
+      "name": "所属设计类型",
+      "source": "80",
+      "target": "550"
+    },
+    {
+      "id": "9813084",
+      "name": "所含产品",
+      "source": "550",
+      "target": "80"
+    },
+    {
+      "id": "8464542",
+      "name": "产品条款文字编码",
+      "source": "80",
+      "target": "316"
+    },
+    {
+      "id": "9074147",
+      "name": "承保方式",
+      "source": "80",
+      "target": "315"
+    },
+    {
+      "id": "1419437",
+      "name": "销售产品",
+      "source": "71",
+      "target": "80"
+    },
+    {
+      "id": "8377373",
+      "name": "保单备案时间",
+      "source": "81",
+      "target": "9933"
+    },
+    {
+      "id": "2789768",
+      "name": "所含",
+      "source": "81",
+      "target": "9640"
+    },
+    {
+      "id": "3212524",
+      "name": "所属保险类型",
+      "source": "81",
+      "target": "596"
+    },
+    {
+      "id": "7383612",
+      "name": "所属保险类型",
+      "source": "81",
+      "target": "594"
+    },
+    {
+      "id": "7539207",
+      "name": "所属保险类型",
+      "source": "81",
+      "target": "592"
+    },
+    {
+      "id": "7032059",
+      "name": "所属保险类型",
+      "source": "81",
+      "target": "593"
+    },
+    {
+      "id": "4339435",
+      "name": "保险期间类型",
+      "source": "81",
+      "target": "583"
+    },
+    {
+      "id": "9594743",
+      "name": "产品销售状态",
+      "source": "81",
+      "target": "575"
+    },
+    {
+      "id": "2366371",
+      "name": "专属",
+      "source": "81",
+      "target": "571"
+    },
+    {
+      "id": "8590111",
+      "name": "所含产品",
+      "source": "550",
+      "target": "81"
+    }
+  ],
+  "nodes": [
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "0",
+      "name": "建信人寿保险有限公司",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "1",
+      "name": "弘康人寿保险股份有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "2",
+      "name": "上海人寿保险股份有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "3",
+      "name": "幸福人寿保险股份有限公司",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "4",
+      "name": "泰康养老保险股份有限公司",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "5",
+      "name": "工银安盛人寿保险有限公司",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "6",
+      "name": "横琴人寿保险有限公司",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "7",
+      "name": "珠江人寿保险股份有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "8",
+      "name": "中华联合人寿保险股份有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "9",
+      "name": "正德人寿保险股份有限公司",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "10",
+      "name": "君龙人寿保险有限公司",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "11",
+      "name": "信美人寿相互保险社",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "12",
+      "name": "国联人寿保险股份有限公司",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "13",
+      "name": "中邮人寿保险股份有限公司",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "14",
+      "name": "北京人寿保险股份有限公司",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "15",
+      "name": "安邦人寿保险股份有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "16",
+      "name": "中意人寿保险有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "17",
+      "name": "恒安标准人寿保险有限公司",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "18",
+      "name": "德华安顾人寿保险有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "19",
+      "name": "英大泰和人寿保险股份有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "20",
+      "name": "泰康人寿保险有限责任公司",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "21",
+      "name": "同方全球人寿保险有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "22",
+      "name": "招商信诺人寿保险有限公司",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "23",
+      "name": "信诚人寿保险有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "24",
+      "name": "中航三星人寿保险有限公司",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "25",
+      "name": "中韩人寿保险有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "26",
+      "name": "中荷人寿保险有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "27",
+      "name": "新光海航人寿保险有限责任公司",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "28",
+      "name": "爱心人寿保险股份有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "29",
+      "name": "华泰人寿保险股份有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "30",
+      "name": "长生人寿保险有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "31",
+      "name": "百年人寿保险股份有限公司",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "32",
+      "name": "中新大东方人寿保险有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "33",
+      "name": "东吴人寿保险股份有限公司",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "34",
+      "name": "中银三星人寿保险有限公司",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "35",
+      "name": "中德安联人寿保险有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "36",
+      "name": "友邦保险有限公司上海分公司（代表友邦在华各分支公司）",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "37",
+      "name": "光大永明人寿保险有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "38",
+      "name": "华夏人寿保险股份有限公司",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "39",
+      "name": "中国人民人寿保险股份有限公司",
+      "symbolSize": 42
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "40",
+      "name": "中英人寿保险有限公司",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "41",
+      "name": "前海人寿保险股份有限公司",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "42",
+      "name": "和谐健康保险股份有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "43",
+      "name": "太保安联健康保险股份有限公司",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "44",
+      "name": "君康人寿保险股份有限公司",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "45",
+      "name": "富德生命人寿保险股份有限公司",
+      "symbolSize": 41
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "46",
+      "name": "民生人寿保险股份有限公司",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "47",
+      "name": "阳光人寿保险股份有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "48",
+      "name": "太平人寿保险有限公司",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "49",
+      "name": "中宏人寿保险有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "50",
+      "name": "复星保德信人寿保险有限公司",
+      "symbolSize": 40
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "51",
+      "name": "平安健康保险股份有限公司",
+      "symbolSize": 43
+    },
+    {
+      "attributes": {
+        "modularity_class": 2
+      },
+      "id": "52",
+      "name": "交银康联人寿保险有限公司",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "53",
+      "name": "平安养老保险股份有限公司",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 3
+      },
+      "id": "54",
+      "name": "信泰人寿保险股份有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "55",
+      "name": "昆仑健康保险股份有限公司",
+      "symbolSize": 39
+    },
+    {
+      "attributes": {
+        "modularity_class": 4
+      },
+      "id": "56",
+      "name": "长城人寿保险股份有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 0
+      },
+      "id": "57",
+      "name": "和泰人寿保险股份有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 5
+      },
+      "id": "58",
+      "name": "中美联泰大都会人寿保险有限公司",
+      "symbolSize": 44
+    },
+    {
+      "attributes": {
+        "modularity_class": 1
+      },
+      "id": "59",
+      "name": "中国太平洋人寿保险股份有限公司",
+      "symbolSize": 39
+    }
+  ]
+}
